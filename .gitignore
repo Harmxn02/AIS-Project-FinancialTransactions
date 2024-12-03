@@ -5,4 +5,4 @@ data/merged/
 data/train_fraud_labels.csv
 
 # Folder where I put all files I do not want to commit to the repository
-Harman/
+Harman_private/
